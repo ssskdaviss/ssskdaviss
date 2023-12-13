@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Angular developer from Georgia</h3>
 <h1>My Projects:</h1>
 
-<a href="https://www.youtube.com/watch?v=nM0y-XoVKCg&t=3131s"> sd</a>
+<a href="https://www.youtube.com/watch?v=nM0y-XoVKCg&t=3131s">fg</a>
 
 
 <h3 align="left">Connect with me:</h3>
