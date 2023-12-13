@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Giga Shaverdashvili</h1>
 <h3 align="center">A passionate Angular developer from Georgia</h3>
-<h1>My Projects:</h1>
+
 ![a](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/bc4599da-9de5-4088-82a0-90be47d14438)
 
 
