@@ -1,14 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Giga Shaverdashvili</h1>
 <h3 align="center">A passionate Angular developer from Georgia</h3>
-<h1>My Projects:</h1>
-
 
 
 <table border="1">
     <thead>
         <tr>
-            <th colspan="2">Projects:</th>
+            <th colspan="2"><h2>Projects</h2></th>
         </tr>
     </thead>
     <tbody>
