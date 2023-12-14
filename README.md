@@ -3,14 +3,7 @@
 <h3 align="center">A passionate Angular developer from Georgia</h3>
 <h1>My Projects:</h1>
 
-<div>
-  <h3>Crypto Market</h3>
-  <a href="https://github.com/ssskdaviss/final-project-angular">
-  
-  ![a](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/bc4599da-9de5-4088-82a0-90be47d14438)
 
-</a>
-</div>
 
 <table border="1">
     <thead>
@@ -20,22 +13,22 @@
     </thead>
     <tbody>
         <tr>
-            <td>Data 1A</td>
-            <td>Data 1B</td>
+            <td> Crypto market </td>
+            <td> E-Commerce</td>
         </tr>
         <tr>
-            <td>Data 2A</td>
+            <td>
+<div>
+  <h3>Crypto Market</h3>
+  <a href="https://github.com/ssskdaviss/final-project-angular">
+  
+  ![a](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/bc4599da-9de5-4088-82a0-90be47d14438)
+
+</a>
+</div>
+              
+            </td>
             <td>Data 2B</td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr>
-            <td>Data 3A</td>
-            <td>Data 3B</td>
-        </tr>
-        <tr>
-            <td>Data 4A</td>
-            <td>Data 4B</td>
         </tr>
     </tbody>
 </table>
