@@ -15,12 +15,7 @@
 <table border="1">
     <thead>
         <tr>
-            <th colspan="2">Header 1</th>
-        </tr>
-    </thead>
-    <thead>
-        <tr>
-            <th colspan="2">Header 2</th>
+            <th colspan="2">Projects:</th>
         </tr>
     </thead>
     <tbody>
