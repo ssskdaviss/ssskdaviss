@@ -3,33 +3,20 @@
 <h3 align="center">A passionate Angular developer from Georgia</h3>
 
 
-<table border="1">
-    <thead>
-        <tr>
-            <th colspan="2"><h2>Projects</h2></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td> Crypto market </td>
-        </tr>
-        <tr>
-        <div>
-  <a href="https://github.com/ssskdaviss/final-project-angular">
-  
-  ![a](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/bc4599da-9de5-4088-82a0-90be47d14438)
-
-
-</a>
-
- </tr>
- <tr>
-     
- ![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/edc2e15e-007a-4537-bf8b-8933d09815ff)
-
-
- </tr>
-    </tbody>
+<table>
+  <thead>
+    <tr>
+      <th>Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="image1.jpg" alt="Image 1"></td>
+      <td><img src="image2.jpg" alt="Image 2"></td>
+      <td><img src="image3.jpg" alt="Image 3"></td>
+      <td><img src="image4.jpg" alt="Image 4"></td>
+    </tr>
+  </tbody>
 </table>
 
 
