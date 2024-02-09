@@ -6,7 +6,7 @@
 <table>
     <thead>
     <tr>
-      <th colspan="4">Header</th>
+      <th colspan="4">Project: Crypto Market</th>
     </tr>
   </thead>
   <tbody>
