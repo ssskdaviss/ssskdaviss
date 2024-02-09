@@ -20,8 +20,12 @@
   ![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/d53cce32-16b3-4940-a734-f2f8cedf969c)</td>
     </tr>
     <tr>
-      <td>![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/499ac5fc-9b7b-474c-bacf-2d8c488a88f1)</td>
-      <td>![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/f860fb6a-614a-4bbd-99ca-c5d36c9a6e64)</td>
+          <td>![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/f860fb6a-614a-4bbd-99ca-c5d36c9a6e64)</td>
+
+  <td>
+    
+    
+![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/499ac5fc-9b7b-474c-bacf-2d8c488a88f1)</td>
     </tr>
   </tbody>
 </table>
