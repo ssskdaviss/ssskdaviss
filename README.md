@@ -14,14 +14,19 @@
             <td> Crypto market </td>
         </tr>
         <tr>
-            <td>        <div>
+        <div>
   <a href="https://github.com/ssskdaviss/final-project-angular">
   
   ![a](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/bc4599da-9de5-4088-82a0-90be47d14438)
-  ![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/edc2e15e-007a-4537-bf8b-8933d09815ff)
 
 
 </a>
+
+ </tr>
+ <tr>
+     
+ ![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/edc2e15e-007a-4537-bf8b-8933d09815ff)
+
 
  </tr>
     </tbody>
