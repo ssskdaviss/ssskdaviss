@@ -4,26 +4,20 @@
 
 
 <table>
-    <thead>
+  <thead>
     <tr>
-      <th colspan="4">Project : Crypto Market</th>
+      <th colspan="2">Header</th>
+      <th colspan="2">Header</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td> 
-        
-  ![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/39793542-1fde-4f42-ba9d-f245a20413ad) </td>
-      <td>![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/39793542-1fde-4f42-ba9d-f245a20413ad)
-</td> <br>
-      <td>    
-        
-  ![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/39793542-1fde-4f42-ba9d-f245a20413ad)
-</td>
-      <td>
-        
-  ![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/39793542-1fde-4f42-ba9d-f245a20413ad)
-</td>
+      <td><img src="image1.jpg" alt="Image 1"></td>
+      <td><img src="image2.jpg" alt="Image 2"></td>
+    </tr>
+    <tr>
+      <td><img src="image3.jpg" alt="Image 3"></td>
+      <td><img src="image4.jpg" alt="Image 4"></td>
     </tr>
   </tbody>
 </table>
