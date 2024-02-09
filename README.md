@@ -4,9 +4,9 @@
 
 
 <table>
-  <thead>
+    <thead>
     <tr>
-      <th>Projects</th>
+      <th colspan="4">Header</th>
     </tr>
   </thead>
   <tbody>
