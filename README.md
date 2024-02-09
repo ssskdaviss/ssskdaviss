@@ -7,7 +7,6 @@
   <thead>
     <tr>
       <th colspan="2">Header</th>
-      <th colspan="2">Header</th>
     </tr>
   </thead>
   <tbody>
