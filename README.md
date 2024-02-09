@@ -12,7 +12,6 @@
     <tbody>
         <tr>
             <td> Crypto market </td>
-            <td> E-Commerce</td>
         </tr>
         <tr>
             <td>        <div>
@@ -23,11 +22,6 @@
 </a>
 </div>         </td>
             <td>         <div>
-  <a href="https://github.com/ssskdaviss/E-commerce-website">
-  
-![s](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/f525bbf6-4586-474b-ae22-c9b5ccd683fe)
-
-</a>
 </div> </td>
         </tr>
     </tbody>
