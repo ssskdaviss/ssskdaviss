@@ -11,12 +11,17 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="image1.jpg" alt="Image 1"></td>
-      <td><img src="image2.jpg" alt="Image 2"></td>
+      <td>
+        
+  ![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/29cfa6af-62ed-4720-ac05-fcc5ec967628)
+</td>
+      <td>
+        
+  ![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/d53cce32-16b3-4940-a734-f2f8cedf969c)</td>
     </tr>
     <tr>
-      <td><img src="image3.jpg" alt="Image 3"></td>
-      <td><img src="image4.jpg" alt="Image 4"></td>
+      <td>![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/499ac5fc-9b7b-474c-bacf-2d8c488a88f1)</td>
+      <td>![image](https://github.com/ssskdaviss/ssskdaviss/assets/104073066/f860fb6a-614a-4bbd-99ca-c5d36c9a6e64)</td>
     </tr>
   </tbody>
 </table>
